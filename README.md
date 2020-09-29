@@ -1,5 +1,6 @@
 # 03 JavaScript: Password Generator
 9/27/2020
+Kelsey Busser
 
 ## Description
 
@@ -9,6 +10,12 @@ It will take them through which characters they want and how long they want it t
 At the end a random password will display in the box
 
 ## Programs Used
-•	JavaScript
-•	HTML
-•	CSS
+* JavaScript
+* HTML
+* CSS
+
+![First Screenshot](/images/pwg1.png)
+![Second Screenshot](/images/pwg2.png)
+![Third Screenshot](/images/pw3.png)
+
+
