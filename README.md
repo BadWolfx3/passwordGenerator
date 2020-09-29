@@ -14,8 +14,8 @@ At the end a random password will display in the box
 * HTML
 * CSS
 
-![First Screenshot](/images/pwg1.png)
-![Second Screenshot](/images/pwg2.png)
-![Third Screenshot](/images/pw3.png)
+![First Screenshot](/Images/PWG1.jpg)
+![Second Screenshot](/Images/pwg2.jpg)
+![Third Screenshot](/Images/pw3.jpg)
 
 
